@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "mongo-seeding": "^3.7.2",
     "mongodb": "^5.0.1"
   }
 }
